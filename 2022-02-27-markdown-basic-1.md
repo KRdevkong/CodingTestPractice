@@ -1,18 +1,3 @@
----
-layout: post
-current: post
-cover: assets/built/images/background-markdown.jpg
-navigation: True
-title: Markdown 기본 정리
-date: 2022-02-27 16:40:00 +0900
-tags: [markdown]
-class: post-template
-subclass: 'post tag-markdown'
-author: KRdevkong
----
-
-{% include makrdown-table-of-contents.html %}
-
 # 마크다운 문법 정리  
 
 
